@@ -26,7 +26,6 @@
     color: black;
     margin-bottom: 100px;
 }
-
 #info{
     width: 35%;
     margin: auto;
@@ -85,4 +84,8 @@
     color: #f50856;
     margin-left: 10px;
     margin-right: 10px;
+}
+.btn{
+    color: #f50856;
+    margin: auto;
 }
